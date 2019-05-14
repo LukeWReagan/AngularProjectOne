@@ -1,0 +1,14 @@
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\obj\Debug\netcoreapp2.1\AngularProjectOne.csprojAssemblyReference.cache
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\obj\Debug\netcoreapp2.1\AngularProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\obj\Debug\netcoreapp2.1\AngularProjectOne.RazorAssemblyInfo.cache
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\obj\Debug\netcoreapp2.1\AngularProjectOne.RazorAssemblyInfo.cs
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\obj\Debug\netcoreapp2.1\AngularProjectOne.AssemblyInfoInputs.cache
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\obj\Debug\netcoreapp2.1\AngularProjectOne.AssemblyInfo.cs
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\bin\Debug\netcoreapp2.1\AngularProjectOne.deps.json
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\bin\Debug\netcoreapp2.1\AngularProjectOne.runtimeconfig.json
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\bin\Debug\netcoreapp2.1\AngularProjectOne.runtimeconfig.dev.json
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\bin\Debug\netcoreapp2.1\AngularProjectOne.dll
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\bin\Debug\netcoreapp2.1\AngularProjectOne.pdb
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\obj\Debug\netcoreapp2.1\AngularProjectOne.RazorTargetAssemblyInfo.cache
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\obj\Debug\netcoreapp2.1\AngularProjectOne.dll
+C:\Users\Luke\source\repos\AngularProjectOne\AngularProjectOne\obj\Debug\netcoreapp2.1\AngularProjectOne.pdb
