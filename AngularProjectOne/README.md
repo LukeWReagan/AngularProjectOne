@@ -33,14 +33,23 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Git Contribution
 
 Basic Git commands:
+<br>
 git pull (Fetch and merge changes on the remote server to your working directory) "Most time you will switch to Master branch and run git pull origin master. Do this often!!!"
+<br>
 git status (List the files you've changed and those you still need to add or commit) "Red means unstaged green means staged."
+<br>
 git clone /path/to/repository (Create a working copy of a local repository)
+<br>
 git add <filename> (Add one or more files to staging (index) If you run "git add ." all files will be staged for commit)
+<br>
 git commit -m "Commit message" (Commit changes to head (but not yet to the remote repository)) "Always enter a comit message!!!"
+<br>
 git push origin <branch name> (Push the branch to your remote repository) "Do not push master we will handle the merge with a pull request."
+<br>
 git checkout -b <branchname> (Create a new branch and switch to it.)
+<br>
 git checkout <branchname> (Switch from one branh to another.)
+<br>
 git diff (Preview changes, before merging)
   
 ## For more info on Git Flow Fallow link:
