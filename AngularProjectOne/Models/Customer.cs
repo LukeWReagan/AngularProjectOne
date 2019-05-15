@@ -3,6 +3,8 @@ using System;
 using System.Data.Linq;
 using System.Data.Linq.Mapping;
 
+namespace AngularProjectOne.Models
+{
 [Table(Name = "Customer")]
 public class Customer
 {
@@ -84,4 +86,5 @@ public class Customer
             this.password = value;
         }
     }
+}
 }

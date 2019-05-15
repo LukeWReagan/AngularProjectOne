@@ -3,6 +3,8 @@ using System;
 using System.Data.Linq;
 using System.Data.Linq.Mapping;
 
+namespace AngularProjectOne.Models
+{
 [Table(Name = "Address")]
 public class Address
 {
@@ -24,7 +26,7 @@ public class Address
     //public property access fields
     //customerID public accessor with primaryKey clause
     [Column(Storage = "customerID", DbType = "Int NOT NULL IDENTITY", IsPrimaryKey = true, IsDbGenerated = true)]
-    public string CustomerID
+    public int CustomerID
     {
         get
         {
@@ -102,4 +104,5 @@ public class Address
     //    }
     //    return null;
     //}
+}
 }
